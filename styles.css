@@ -1,6 +1,23 @@
 
 /* Your CSS Code here. */
+body{
+	box-sizing:border-box;
+}
+.inner{
+	background-color:lightblue;
+	border:1px solid black;
+	width:300px;
+	margin:auto;
+}
 .outer{
+	border:15px solid blue;
+	padding:50px;
+	margin:20px;
+}
+
+
+
+/* .outer{
 	background-color:lightblue;
 	border:15px solid blue;
 	padding:50px;
@@ -9,4 +26,4 @@
 .inner{
 	width:300px;
 	border:1px solid black;
-}
+} */
